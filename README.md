@@ -1,4 +1,4 @@
-# 3D-Hand-Tracking-Unity-Game
+# 3D-Hand-Tracking-Game
 This project integrates hand tracking mechanics into Unity game environment using Mediapipe.
 
 ## One Hand
